@@ -39,8 +39,9 @@ export default function Index (){
             </View>
         </View>
     )
-}
+}14
 
+3
 const styles = StyleSheet.create({
     container:{
         flex: 1,
